@@ -1,4 +1,4 @@
-[Name of the License]  (2024-02-25)
+[Name of the License]
 
 You are hereby granted a universal non-exclusive right to, use, reproduce, 
 make available, feature, modify, display, perform, distribute, and/or 
@@ -96,12 +96,13 @@ copyright holder, and in good faith to ensure the fairness, integrity,
 precedent and/or compliance of This License, contact, sue, litigate against 
 and/or otherwise seek and collect damages from You.
 
-"This License" (or "The License") means version 2024-02-25 (or later) of 
-    [Name of the License]. It is a living document, which means [Name of 
-    the Publisher] may release new versions from time to time, only in 
-    order to fix errors, address loopholes and/or resolve ambiguities. Any 
-    legal interpretation of this document should be wholistic and consider 
-    the history and nature of any changes made to the document.
+"This License" (or "The License") means [Name of the License]. It is a 
+    living document, which means [Name of the Publisher] may release new 
+    versions from time to time, only in order to fix errors, address 
+    loopholes and/or resolve ambiguities. The legal interpretation of this 
+    document should be wholistic and ought to consider the context of its 
+    use along with the perspectives and opinions from the majority of 
+    licensees and licensors.
 
 "This Project" (or "The Project") means the work covered by This License 
     and includes any modified versions and/or derivatives of the work.
