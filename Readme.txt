@@ -232,7 +232,7 @@ and/or otherwise seek and collect damages from You.
         Community Trademark.
 
     (c) it was added in good faith and represents a genuine mark that
-        the copyright holder is using on any Distribution Channel.
+        the copyright holder is using through any Distribution Channel.
 
 THERE IS NO WARRANTY FOR THIS PROJECT, TO THE EXTENT PERMITTED BY APPLICABLE 
 LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER 
