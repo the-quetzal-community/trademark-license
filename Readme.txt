@@ -97,9 +97,11 @@ precedent and/or compliance of This License, contact, sue, litigate against
 and/or otherwise seek and collect damages from You.
 
 "This License" (or "The License") means version 2024-02-25 (or later) of 
-    [Name of the License]. [Name of the Publisher] may release new versions 
-    of This License from time to time in order to 
-    resolve errors and/or ambiguity.
+    [Name of the License]. It is a living document, which means [Name of 
+    the Publisher] may release new versions from time to time, only in 
+    order to fix errors, address loopholes and/or resolve ambiguities. Any 
+    legal interpretation of this document should be wholistic and consider 
+    the history and nature of any changes made to the document.
 
 "This Project" (or "The Project") means the work covered by This License 
     and includes any modified versions and/or derivatives of the work.
@@ -129,9 +131,17 @@ and/or otherwise seek and collect damages from You.
     location on the internet, that disambiguates the identity of
     a copyright holder.
 
-"Community License" means any license that has been approved by the Open 
-    Source Initiative (A list of which can be found at https://opensource.org/) 
-    or any version of This License.
+"Community License" means:
+
+    (a) any license that has been approved by the Open Source Initiative 
+        (A list of which can be found at https://opensource.org/licenses)
+
+    (b) any license that has is qualified to be a free software license
+        by the Free Software Foundation (A list of which can be found at
+        https://www.gnu.org/licenses/license-list.html)
+
+    (c) any license that has been approved by The Quetzal Community (a list 
+        of which can be found at the.quetzal.community/approved-licenses)
 
 "Share" or ("Shared" in the past sense) means to feature, publish, 
     bundle, distribute, showcase, perform, sell, and/or otherwise make 
