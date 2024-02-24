@@ -264,7 +264,7 @@ Exhibit A:
     share back any modifications and respect the community trademarks.
 
 Exhibit B:
-    Additional Terms according section 7 of GNU/GPL V3: 
+    Additional Terms according to section 7 of the GNU/GPL V3: 
 
         "[Trademark1]", "[Trademark2]" and "[Trademark3]" are trademarks of 
         [CopyrightHolder], who's name may not be used to endorse or promote 
