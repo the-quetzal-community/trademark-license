@@ -1,4 +1,4 @@
-[Name of the Community License]  (2024-02-25)
+[Name of the License]  (2024-02-25)
 
 You are hereby granted a universal non-exclusive right to, use, reproduce, 
 make available, feature, modify, display, perform, distribute, and/or 
@@ -11,7 +11,8 @@ the following conditions:
     (a) The Buildable Source is Readily Available for as long as You 
         continue to Share This Project and any Dependant Projects, or
 
-    (b) This Project is unmodified from a Publisher's Official Release.
+    (b) This Project remains unmodified from a Publisher's Official 
+        Release and is being Shared with the Publisher's consent.
     
 2. You may not restrict any licensee from exercising their rights to 
    This Project (unless they are in breach of This License). You agree:  
@@ -96,8 +97,8 @@ precedent and/or compliance of This License, contact, sue, litigate against
 and/or otherwise seek and collect damages from You.
 
 "This License" (or "The License") means version 2024-02-25 (or later) of 
-    [Name of the Community License]. [Name of the Community License Author] 
-    may release new versions of This License from time to time in order to 
+    [Name of the License]. [Name of the Publisher] may release new versions 
+    of This License from time to time in order to 
     resolve errors and/or ambiguity.
 
 "This Project" (or "The Project") means the work covered by This License 
@@ -247,7 +248,7 @@ you can apply it to your own project by attaching it in a standard location and
 adding a brief summary (similar to Exhibit A) to any relevant documentation.
 
 Exhibit A:
-    This Project is available under the [Address of the Community License]
+    This Project is available under the [Address of the License]
     this means you can do what you like with this project as long as you 
     share back any modifications and respect the community trademarks.
 
