@@ -83,7 +83,7 @@ the following conditions:
          (https://www.gnu.org/licenses/agpl-3.0.en.html) at any time
          provided that additional terms are added for each Notice (with 
          at least one or more listed trademarks) as illustrated in 
-         Exhibit A.
+         Exhibit B.
         
 In the event that You breach a condition of This License, You must take 
 immediate steps to resolve this breach and until You resolve this breach, 
