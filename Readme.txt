@@ -111,8 +111,8 @@ and/or otherwise seek and collect damages from You.
 "Official Release" means any Publisher's version of This Project 
     that they Share under the umbrella of one of their Community Trademarks. 
 
-"The Attached Notices" means a 'Notices' document or heading, that contains 
-    every Notice.
+"The Attached Notices" means a 'Notices' document, Address or heading, that 
+    contains every Notice.
 
 "You" (or "Your")
     means an individual or a legal entity exercising their rights under 
@@ -252,14 +252,15 @@ HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 IF ANY PART OF THIS LICENSE IS DECLARED UNENFORCEABLE AND/OR INVALID, THE 
 REMAINDER WILL CONTINUE TO BE ENFORCEABLE AND VALID.
 
-This License is available under the the.quetzal.community/trademark-license
+This License is available under https://the.quetzal.community/trademark-license
 you can apply it to your own project by attaching it in a standard location and 
-adding a brief summary (similar to Exhibit A) to any relevant documentation.
+adding a brief summary (similar to Exhibit A) to any relevant documentation, see
+the attached https://the-quetzal-community/notices
 
 Exhibit A:
-    This Project is available under the the.quetzal.community/trademark-license
-    this means you can do what you like with this project as long as you 
-    share back any modifications and respect the community trademarks.
+    This Project is available under https://the.quetzal.community/trademark-license
+    you can do what you like with this project as long as you share any 
+    modifications to the buildable source and respect the community trademarks.
 
 Exhibit B:
     Additional Terms according to section 7 of the GNU/GPL V3: 
@@ -278,7 +279,3 @@ Exhibit B:
         The names "[Trademark1]", "[Trademark2]" and "[Trademark3]" must not be 
         used to endorse or promote products derived from this Software without 
         prior written permission from [CopyrightHolder]. 
-
-Notices:
-    The Quetzal Community Trademark License™, Builda City™, Realm of Order™
-    Copyright © 2024 Quentin Quaadgras quentinquaadgras.com (2024-02-25)
