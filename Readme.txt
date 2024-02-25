@@ -1,5 +1,3 @@
-[Name of the License]
-
 You are hereby granted a universal non-exclusive right to, use, reproduce, 
 make available, feature, modify, display, perform, distribute, and/or 
 otherwise exploit Your copy of This Project for *any purpose* subject to 
@@ -96,9 +94,9 @@ copyright holder, and in good faith to ensure the fairness, integrity,
 precedent and/or compliance of This License, contact, sue, litigate against 
 and/or otherwise seek and collect damages from You.
 
-"This License" (or "The License") means [Name of the License]. It is a 
-    living document, which means [Name of the Publisher] may release new 
-    versions from time to time, only in order to fix errors, address 
+"This License" (or "The License") is the.quetzal.community/trademark-license
+    It is a living document, which means the Publisher may release
+    new versions from time to time, only in order to fix errors, address 
     loopholes and/or resolve ambiguities. The legal interpretation of this 
     document should be wholistic and ought to consider the context of its 
     use along with the perspectives and opinions from the majority of 
@@ -259,7 +257,7 @@ you can apply it to your own project by attaching it in a standard location and
 adding a brief summary (similar to Exhibit A) to any relevant documentation.
 
 Exhibit A:
-    This Project is available under the [Address of the License]
+    This Project is available under the the.quetzal.community/trademark-license
     this means you can do what you like with this project as long as you 
     share back any modifications and respect the community trademarks.
 
