@@ -6,10 +6,10 @@ the following conditions:
 1. Whenever You Share This Project or any Dependant Projects, You must
    ensure that either:
 
-    (a) The Buildable Source is Readily Available for as long as You
-        continue to Share This Project and any Dependant Projects, or
+    (a) The Buildable Source of that copy remains Readily Available for 
+        as long as You continue to Share it, or
 
-    (b) This Project is Shared as an unmodified copy of a Publisher's
+    (b) the copy you Share is an unmodified copy of a Publisher's
         Official Release.
 
 2. You may not restrict any licensee from exercising their rights to
@@ -24,14 +24,14 @@ the following conditions:
         nor The Buildable Source, and/or the ability for any interested
         party to find it.
 
-3. Changes to the Attached Notices may not be Shared with other parties
-   unless they are composed of the following:
+3. Modifications You make to the Attached Notices cannot be Shared unless 
+   they are composed of the following:
 
-    (a) the addition of a Notice to record Your agreement to become a
-        Publisher for This Project, which means that You agree to,
-        for as long as You continue to Share an Official Release, Share
-        The Buildable Source for it on a public Community Contribution
-        Channel of Your choice.
+    (a) the addition of a Notice to record Your commitment to become a
+        Publisher for This Project, which means that You agree to, for as 
+        long as You continue to Share an Official Release, Share The 
+        Buildable Source for it on a public Community Contribution Channel 
+        of Your choice.
 
     (b) a redated modification to Your Notice, with the addition or
         removal of one or more of Your trademarks, and/or, a correction
@@ -40,14 +40,14 @@ the following conditions:
     (c) rearrangement, reordering, relocation and/or reformatting.
 
     (d) addition of another copyright holder's Notice, verbatim, sourced
-        from another set of Attached Notices maintained as required
-        by Section 3 of This License.
+        from another set of Attached Notices that have been maintained as 
+        required by Section 3 of This License.
 
     (e) replacement of a copyright holder's Notice with a newer Notice
         from the same copyright holder, from another set of Attached
         Notices maintained as required by Section 3 of This License.
 
-    (f) the removal of any trademark that is not a Community Trademark.
+    (f) the removal of a trademark that is not a Community Trademark.
 
 4. Neither the name of any (other) Publisher, nor any Community Trademark
    of theirs, may be used within, or used to title, endorse or promote,
@@ -76,7 +76,6 @@ the following conditions:
         additions, and which is not being promoted, featured or construed
         in any way to be an Official Release, nor as an alternative
         option to be used in the same way as an Official Release.
-
 
 5. Redistributions of This Project may be relicensed under:
 
@@ -254,8 +253,8 @@ REMAINDER WILL CONTINUE TO BE ENFORCEABLE AND VALID.
 
 This License is available under https://the.quetzal.community/trademark-license
 you can apply it to your own project by attaching it in a standard location and
-adding a brief summary (similar to Exhibit A) to any relevant documentation, see
-the attached https://the-quetzal-community/notices
+adding a brief summary (similar to Exhibit A) to any relevant documentation, 
+please refer to https://the.quetzal.community/notices for trademark information.
 
 Exhibit A:
     This Project is available under https://the.quetzal.community/trademark-license
