@@ -6,11 +6,10 @@ the following conditions:
 1. Whenever You Share This Project or any Dependant Projects, You must
    ensure that either:
 
-    (a) The Buildable Source of that copy remains Readily Available for 
-        as long as You continue to Share it, or
+    (a) The Buildable Source is Readily Available for as long as You
+        continue to Share This Project and any Dependant Projects, or
 
-    (b) the copy you Share is an unmodified copy of a Publisher's
-        Official Release.
+    (b) You Share an unmodified copy of a Publisher's Official Release.
 
 2. You may not restrict any licensee from exercising their rights to
    This Project (unless they are in breach of This License). You agree:
@@ -24,30 +23,32 @@ the following conditions:
         nor The Buildable Source, and/or the ability for any interested
         party to find it.
 
-3. Modifications You make to the Attached Notices cannot be Shared unless 
-   they are composed of the following:
+3. Changes to the Attached Notices may not be Shared with other parties
+   unless they are composed of the following:
 
-    (a) the addition of a Notice to record Your commitment to become a
-        Publisher for This Project, which means that You agree to, for as 
-        long as You continue to Share an Official Release, Share The 
-        Buildable Source for it on a public Community Contribution Channel 
-        of Your choice.
+    (a) the addition of a Notice to record Your agreement to become a
+        Publisher for This Project, which means that You agree, for as
+        long as You continue to Share an Official Release, to Share
+        The Buildable Source on a public Community Contribution
+        Channel of Your choice.
 
-    (b) a redated modification to Your Notice, with the addition or
-        removal of one or more of Your trademarks, and/or, a correction
-        of Your Address.
+    (b) replacing the year of Your Notice, to the current year, with the
+        addition or removal of one or more of Your trademarks, and/or,
+        a correction of Your Address.
 
     (c) rearrangement, reordering, relocation and/or reformatting.
 
     (d) addition of another copyright holder's Notice, verbatim, sourced
-        from another set of Attached Notices that have been maintained as 
-        required by Section 3 of This License.
+        from another set of Attached Notices maintained as required
+        by Section 3 of This License.
 
     (e) replacement of a copyright holder's Notice with a newer Notice
         from the same copyright holder, from another set of Attached
         Notices maintained as required by Section 3 of This License.
 
-    (f) the removal of a trademark that is not a Community Trademark.
+    (f) the removal of any trademark that is no longer a Community
+        Trademark or a trademark that has not been maintained as described
+        by Section 3 of This License.
 
 4. Neither the name of any (other) Publisher, nor any Community Trademark
    of theirs, may be used within, or used to title, endorse or promote,
@@ -72,10 +73,11 @@ the following conditions:
         Community Trademark, verbatim, at the discretion of the
         Publisher (who may request their removal at any time) on a
         copy of The Buildable Source being distributed on a Community
-        Contribution Channel without any offensive or objectional
-        additions, and which is not being promoted, featured or construed
-        in any way to be an Official Release, nor as an alternative
-        option to be used in the same way as an Official Release.
+        Contribution Channel, without any offensive or objectionale
+        additions, which is not being promoted, featured or construed
+        in any way to be an Official Release, nor is being framed as an
+        alternative competing option to any Official Release.
+
 
 5. Redistributions of This Project may be relicensed under:
 
@@ -99,11 +101,11 @@ precedent and/or compliance of This License, contact, sue, litigate against
 and/or otherwise seek and collect damages from You.
 
 "This License" (or "The License") is the.quetzal.community/trademark-license
-    It is a living document, which means the Publisher may release
-    new versions from time to time, only in order to fix errors, address
-    loopholes and/or resolve ambiguities. The legal interpretation of this
-    document ought to consider its underlying principles, the context of its
-    use, along with the perspectives and opinions of licensees and licensors.
+    It is a living document, which means the original author(s) may release new
+    versions from time to time, only in order to fix errors, address loopholes
+    and/or resolve ambiguities. The legal interpretation of this document should
+    consider the underlying principles, any modifications, the context of its use,
+    along with any perspectives and opinions of both the licensees and licensors.
 
 "This Project" (or "The Project") means the work covered by This License
     and includes any modified versions and/or derivatives of the work.
@@ -253,8 +255,8 @@ REMAINDER WILL CONTINUE TO BE ENFORCEABLE AND VALID.
 
 This License is available under https://the.quetzal.community/trademark-license
 you can apply it to your own project by attaching it in a standard location and
-adding a brief summary (similar to Exhibit A) to any relevant documentation, 
-please refer to https://the.quetzal.community/notices for trademark information.
+adding a brief summary (similar to Exhibit A) to any relevant documentation, see
+the attached https://the.quetzal.community/notices
 
 Exhibit A:
     This Project is available under https://the.quetzal.community/trademark-license
@@ -270,11 +272,11 @@ Exhibit B:
         If the licensee distributes modified copies of the Software then the
         licensee has to: Replace/remove all terms, images and files containing
         the marks "[Trademark1]", "[Trademark2]" and "[Trademark3]". The copyright
-        notices within the source code files may not be removed and have to be
-        left fully intact. In addition, licensees that modify the Software must
-        give the modified Software a new name that is not confusingly similar to
-        "[Trademark1]", "[Trademark2]" or "[Trademark3]" and may not distribute
-        it under the names "[Trademark1]", "[Trademark2]" and/or "[Trademark3]".
+        notices and additional terms within the source code files may not be removed
+        in this way and must always be left intact. In addition, licensees that modify
+        the Software must give the modified Software a new name that is not confusingly
+        similar to "[Trademark1]", "[Trademark2]" or "[Trademark3]" and may not
+        distribute it under the names "[Trademark1]", "[Trademark2]" and/or "[Trademark3]".
         The names "[Trademark1]", "[Trademark2]" and "[Trademark3]" must not be
         used to endorse or promote products derived from this Software without
         prior written permission from [CopyrightHolder].
