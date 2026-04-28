@@ -67,13 +67,13 @@ the following conditions:
         long as any distinction between the Official Release and any
         Dependant Projects is clear and this use is not featured in
         any way that implies endorsement or association with a Publisher,
-        ie. in primary promotional material, titles, or taglines.
+        i.e. in primary promotional material, titles, or taglines.
 
     (c) "Contributive Fair Use", which means use of a Publisher's
         Community Trademark, verbatim, at the discretion of the
         Publisher (who may request their removal at any time) on a
         copy of The Buildable Source being distributed on a Community
-        Contribution Channel, without any offensive or objectionale
+        Contribution Channel, without any offensive or objectionable
         additions, which is not being promoted, featured or construed
         in any way to be an Official Release, nor is being framed as an
         alternative competing option to any Official Release.
@@ -140,7 +140,7 @@ and/or otherwise seek and collect damages from You.
     (a) any license that has been approved by the Open Source Initiative
         (A list of which can be found at https://opensource.org/licenses)
 
-    (b) any license that has is qualified to be a free software license
+    (b) any license that is qualified to be a free software license
         by the Free Software Foundation (A list of which can be found at
         https://www.gnu.org/licenses/license-list.html)
 
@@ -187,7 +187,7 @@ and/or otherwise seek and collect damages from You.
     available under a Community License. Such that the authorship and history of
     any modifications are clearly documented.
 
-"Dependencies" means any work that that This Project depends on, requires
+"Dependencies" means any work that This Project depends on, requires
     and/or is embedding in such a way, that if it were missing, would prevent
     a third party from using This Project for its intended purpose and/or in
     the same way that You used This Project. Dependencies need not include:
@@ -216,7 +216,7 @@ and/or otherwise seek and collect damages from You.
         the Source of This Project.
 
 "Notice" means a copyright notice listed in The Attached Notices followed by an
-    Address and date within parenthesis (in ISO 8601 format) the copyright notice
+    Address and date within parentheses (in ISO 8601 format) the copyright notice
     may be preceded by zero or more comma-separated trademarks. Each trademark is
     associated with the copyright holder that added the copyright notice (it is
     one of theirs), and each trademark added this way is considered to be a
@@ -267,7 +267,7 @@ Exhibit B:
     Additional Terms according to section 7 of the GNU/GPL V3:
 
         "[Trademark1]", "[Trademark2]" and "[Trademark3]" are trademarks of
-        [CopyrightHolder], who's name may not be used to endorse or promote
+        [CopyrightHolder], whose name may not be used to endorse or promote
         products derived from this work without specific prior written permission.
         If the licensee distributes modified copies of the Software then the
         licensee has to: Replace/remove all terms, images and files containing
