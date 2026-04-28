@@ -1,13 +1,13 @@
-You are hereby granted a universal non-exclusive right to, use, reproduce,
+You are hereby granted a universal non-exclusive right to use, reproduce,
 make available, feature, modify, display, perform, distribute, and/or
 otherwise exploit Your copy of This Project for *any purpose* subject to
 the following conditions:
 
-1. Whenever You Share This Project or any Dependant Projects, You must
+1. Whenever You Share This Project or any Dependent Projects, You must
    ensure that either:
 
     (a) The Buildable Source is Readily Available for as long as You
-        continue to Share This Project and any Dependant Projects, or
+        continue to Share This Project or any Dependent Projects, or
 
     (b) You Share an unmodified copy of a Publisher's Official Release.
 
@@ -32,31 +32,31 @@ the following conditions:
         The Buildable Source on a public Community Contribution
         Channel of Your choice.
 
-    (b) replacing the year of Your Notice, to the current year, with the
-        addition or removal of one or more of Your trademarks, and/or,
-        a correction of Your Address.
+    (b) updating the date of Your Notice, to the current date, along with
+        any intended additions or removals of Your trademarks, and/or,
+        making any corrections to Your Address.
 
     (c) rearrangement, reordering, relocation and/or reformatting.
 
     (d) addition of another copyright holder's Notice, verbatim, sourced
-        from another set of Attached Notices maintained as required
-        by Section 3 of This License.
+        from another set of Attached Notices maintained as described
+        by This License.
 
     (e) replacement of a copyright holder's Notice with a newer Notice
-        from the same copyright holder, from another set of Attached
-        Notices maintained as required by Section 3 of This License.
+        from the same copyright holder, sourced from a more recently-dated
+        set of maintained Attached Notices (as prescribed by This License).
 
-    (f) the removal of any trademark that is no longer a Community
-        Trademark or a trademark that has not been maintained as described
-        by Section 3 of This License.
+    (f) the removal of any trademark that has been revoked (it's no longer a
+        Community Trademark) or a mark that was not correctly maintained
+        in the Attached Notices (as prescribed by This License).
 
 4. Neither the name of any (other) Publisher, nor any Community Trademark
    of theirs, may be used within, or used to title, endorse or promote,
-   any Dependant Projects without prior written permission, subject to
+   any Dependent Projects without prior written permission, subject to
    the following "fair use" exceptions:
 
     (a) "Descriptive Fair Use", which means use of dictionary words
-        within, or to promote Dependant Projects such that these words
+        within, or to promote Dependent Projects such that these words
         are used in good faith, for their natural meaning and are not
         in an attempt to capitalise on references to any (other)
         Publisher's Community Trademark.
@@ -65,9 +65,9 @@ the following conditions:
         within a Notice, to refer to, document the usage of, or to
         review and/or fairly draw comparison to an Official Release as
         long as any distinction between the Official Release and any
-        Dependant Projects is clear and this use is not featured in
+        Dependent Projects is clear and this use is not featured in
         any way that implies endorsement or association with a Publisher,
-        i.e. in primary promotional material, titles, or taglines.
+        e.g. in primary promotional material, titles, or taglines.
 
     (c) "Contributive Fair Use", which means use of a Publisher's
         Community Trademark, verbatim, at the discretion of the
@@ -82,14 +82,13 @@ the following conditions:
 5. Redistributions of This Project may be relicensed under:
 
      (a) any chosen Community License subject to a written agreement
-         from every Publisher to relicense This Project under the chosen
-         license.
+         from each Publisher to relicense a copy of This Project under
+         the chosen license.
 
      (b) the GNU Affero General Public License, Version 3 or later,
          (https://www.gnu.org/licenses/agpl-3.0.en.html) at any time
-         provided that additional terms are added for each Notice (with
-         at least one or more listed trademarks) as illustrated in
-         Exhibit B.
+         provided that additional terms are added for each Notice as
+         illustrated in Exhibit B.
 
 In the event that You breach a condition of This License, You must take
 immediate steps to resolve this breach and until You resolve this breach,
@@ -97,15 +96,16 @@ any rights granted to You by This License (except for the rights to
 display and distribute The Buildable Source) are automatically terminated
 and other parties who have agreed to This License, may, on behalf of each
 copyright holder, and in good faith to ensure the fairness, integrity,
-precedent and/or compliance of This License, contact, sue, litigate against
+intent and/or compliance of This License, contact, sue, litigate against
 and/or otherwise seek and collect damages from You.
 
-"This License" (or "The License") is the.quetzal.community/trademark-license
-    It is a living document, which means the original author(s) may release new
-    versions from time to time, only in order to fix errors, address loopholes
-    and/or resolve ambiguities. The legal interpretation of this document should
-    consider the underlying principles, any modifications, the context of its use,
-    along with any perspectives and opinions of both the licensees and licensors.
+"This License" (or "The License") officially published and released at
+    https://the.quetzal.community/trademark-license, is intended to
+    provide a fair and accessible environment for products and services
+    derived from This Project. Similar to Open Source and Free Software,
+    except with more freedoms (and less toil) for licensees in respect
+    to an Official Release, whilst ensuring that any redistributed
+    modifications to the project are available for use by all.
 
 "This Project" (or "The Project") means the work covered by This License
     and includes any modified versions and/or derivatives of the work.
@@ -116,8 +116,8 @@ and/or otherwise seek and collect damages from You.
 "Official Release" means any Publisher's version of This Project
     that they Share under the umbrella of any of their Community Trademarks.
 
-"The Attached Notices" means a 'Notices' document, Address or heading, that
-    contains every Notice.
+"The Attached Notices" means a 'Notices' section, page or location, that
+    is Readily Available and contains every Notice.
 
 "You" (or "Your")
     means an individual or a legal entity exercising their rights under
@@ -155,10 +155,6 @@ and/or otherwise seek and collect damages from You.
     location such that it is clearly discoverable by any interested party
     for a fee no more than the cost of distribution.
 
-"Project Modifications" means any modifications made to The Buildable Source,
-    including but not limited to any additional Dependencies, files and/or
-    subdirectories.
-
 "Platform" means any product, Distribution Channel, machine, compiler,
     software interpreter, engine, environment, and/or operating system which
     is designed and/or intended for third party works to be Operated and/or
@@ -174,7 +170,7 @@ and/or otherwise seek and collect damages from You.
 
 "Source" means the preferred form of making changes.
 
-"Dependant Projects" means larger works, products, redistributions, performances
+"Dependent Projects" means larger works, products, redistributions, performances
    and/or services derived from, and/or otherwise featuring This Project.
 
 "The Buildable Source" means a file, directory and/or other standard format
@@ -205,7 +201,7 @@ and/or otherwise seek and collect damages from You.
         standard interface, in order to enable The Project to be Operated on
         that Platform.
 
-    (c) "Dependant Works", which means any work where the Source is preferably kept
+    (c) "Dependent Works", which means any work where the Source is preferably kept
         externally separated from the Source of This Project, such that This Project
         can be meaningfully separated from it and can continue to function and
         remain useful for its intended purpose without any additional modifications.
@@ -216,22 +212,22 @@ and/or otherwise seek and collect damages from You.
         the Source of This Project.
 
 "Notice" means a copyright notice listed in The Attached Notices followed by an
-    Address and date within parentheses (in ISO 8601 format) the copyright notice
+    Address and date within parentheses (in ISO 8601 format); the copyright notice
     may be preceded by zero or more comma-separated trademarks. Each trademark is
     associated with the copyright holder that added the copyright notice (it is
     one of theirs), and each trademark added this way is considered to be a
     "Community Trademark" when:
 
     (a) it is the appropriate legal representation of a trademark, or is a
-        term or phrase followed by, the unicode trademark symbol, '(TM)'
-        or '(R)', and
+        term or phrase followed by the unicode trademark symbols ™ or ®,
+        or the ASCII equivalents '(TM)' or '(R)', and
 
     (b) it is unique and "Distinguishable" which means, a reasonable
         person will not confuse the trademark with any previously added
-        Community Trademarks.
+        Community Trademarks, and
 
-    (c) it was added in good faith and represents a genuine mark that
-        is in use by the copyright holder on a Distribution Channel.
+    (c) it was added in good faith and represents a genuine mark that remains in-use
+        on a Distribution Channel (or is available for sale from the copyright holder).
 
 THERE IS NO WARRANTY FOR THIS PROJECT, TO THE EXTENT PERMITTED BY APPLICABLE
 LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER
@@ -260,7 +256,7 @@ the attached https://the.quetzal.community/notices
 
 Exhibit A:
     This Project is available under https://the.quetzal.community/trademark-license
-    you can do what you like with this project as long as you share any
+    you can do what you like with this project as long as you share any of your
     modifications to the buildable source and respect the community trademarks.
 
 Exhibit B:
